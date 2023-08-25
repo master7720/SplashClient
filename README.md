@@ -1,4 +1,4 @@
-# Splash
+# SplashClient
 - the devs are soft asf
 # shoutout
 me for leaking it
